@@ -1,0 +1,10 @@
+use EmployeeDB;
+
+-- Adding constraints
+-- COMMON CONSTRAINTS -> NOT NUL, UNIQUE, PRIMARY KEY, FORIGN KEY, CHECK, DEFAULT, CREATE INDEX 
+ALTER TABLE Employees ALTER COLUMN Age int NOT NULL;
+ALTER TABLE Employees ADD CONSTRAINT chk_Age CHECK (Age >= 25);
+
+-- VIEW ALL CONTRAINT
+EXEC sp_helpconstraint Employees;
+

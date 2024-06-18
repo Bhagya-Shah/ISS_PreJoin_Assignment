@@ -1,0 +1,15 @@
+{
+    "roles": [
+        "Analyst",
+        "SDE",
+        "Management"
+    ],
+    "name": "Bhagya Shah",
+    "id": 1,
+    "salary": {
+        "bonus": 10000,
+        "tax": 7000,
+        "basic": 90000
+    },
+    "age": 22
+}
