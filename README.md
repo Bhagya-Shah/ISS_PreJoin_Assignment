@@ -6,5 +6,5 @@ This repository contains the solutions for the assignment covering Core Java, SQ
 
 - `Task1`: Core Java concepts and programs.
 - `Task2`: SQL DBMS concepts and queries.
-- `Task3t`: HTML forms, CSS, and JavaScript validation.
+- `Task3`: HTML forms, CSS, and JavaScript validation.
 - `Task4`: Simple web application using JSP, JDBC, and Tomcat.
